@@ -18,6 +18,7 @@ Site com catálogo de materiais de construção onde o cliente pode verificar os
 
 <h2> Rodapé </h2>
 <br>
+  <img src="imagens/Rodape.png" >   
 
  <div >
           <ul class="col-md-4 footer" >
@@ -34,9 +35,9 @@ Site com catálogo de materiais de construção onde o cliente pode verificar os
               </a>
             </li>
           </ul>
-          
+           </div>         
           <br>
-          
-       <img src="imagens/Rodape.png" >   
+       
+ 
           
        
